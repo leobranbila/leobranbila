@@ -1,4 +1,4 @@
-# Sejam bem-vindos!👋
+# Be welcome!👋
 
 <div align="center">
   <a href="https://github.com/leobranbila">
