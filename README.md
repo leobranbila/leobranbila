@@ -2,8 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/leobranbila">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=leobranbila&hide=contribs,prs)"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=leobranbila&langs_count=7&theme=nightowl&hide=contribs,prs)"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobranbila&langs_count=7&theme=nightowl"/>
 </div>
 <div style="display: inline_block"><br>
