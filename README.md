@@ -14,7 +14,7 @@
   
 <div> 
   <img src="https://komarev.com/ghpvc/?username=leobranbila&color=blueviolet&style=flat">
-  <a href = "mailto:branbila.leo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leo.brannbila@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leobranbila/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
